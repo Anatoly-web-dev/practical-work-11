@@ -85,6 +85,7 @@ h6 {
 	grid-template-rows: minmax(50vh, auto) 1fr minmax(150px, auto);
 	width: 100%;
 	min-height: 100vh;
+	font-family: 'PT Sans', sans-serif;
 }
 
 .header {
@@ -167,7 +168,7 @@ tr {
 }
 
 .first-task {
-	margin: 0 0 50px;
+	margin: 0 0 35px;
 }
 
 .first-task-tables {
@@ -183,7 +184,7 @@ tr {
 	color: rgb(68, 47, 114);
 	font-weight: 700;
 	font-size: 20px;
-	margin: 0 0 15px;
+	margin: 0 0 10px;
 }
 
 .second-task-tables {
